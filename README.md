@@ -189,13 +189,9 @@ Think of it as a toolkit for turning raw retail data into actionable business in
 * **jupyter==1.0.0**
 * **pyyaml==6.0.1**
 * **tqdm==4.66.2**
-* 
 **\# (Optional) Dashboard/Interactive UI**
-
 * **streamlit==1.31.1**
-* 
 **\# (Optional) File I/O / Utils**
-
 * **openpyxl==3.1.2**
 
 
