@@ -208,20 +208,17 @@ Think of it as a toolkit for turning raw retail data into actionable business in
   <img src="image/Retail_1.jpeg" width="500"> 
 </p>
 
+#### **UML Diagram**
+<p align="center">
+  <img src="image/UML_class_diagram.png" width="500"> 
+</p>
 
+#### **Lucidchart**
+<p align="center">
+  <img src="image/Lucidchart.png" width="500"> 
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### **Data pipeline flowchart**
+<p align="center">
+  <img src="image/Data pipeline flowchart.png" width="500"> 
+</p>
