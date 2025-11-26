@@ -27,25 +27,22 @@ Think of it as a toolkit for turning raw retail data into actionable business in
 
 
 
-1. **Extract the ZIP**
+1. **Extract the ZIP** :
    unzip retail\_analytics\_forecasting.zip
    cd retail\_analytics\_forecasting
    
-2. **Create / Activate Virtual Environment (optional if included venv does not work)**
+2. **Create / Activate Virtual Environment (optional if included venv does not work)** :
    python -m venv venv
    source venv/bin/activate   # Mac/Linux
    venv\\Scripts\\activate      # Windows
    
-3. **Install Dependencies
+3. **Install Dependencies :
    pip install -r requirements.txt**
 
 
 
 
 #### **📦Usage:**
-
-
-
 ###### **Jupyter Notebook workflow**
 
 ###### 
