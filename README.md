@@ -205,7 +205,7 @@ Think of it as a toolkit for turning raw retail data into actionable business in
 #### **Screenshots of Retail Analytics Forecasting**
 
 <p align="center">
-  <img src="image/Retail Analytics & AI-Powered Sales Forecasting System1-1.png" width="500"> 
+  <img src="image/Retail_1.png" width="500"> 
 </p>
 
 
